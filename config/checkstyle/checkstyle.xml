@@ -16,7 +16,7 @@
         <module name="Indentation">
             <property name="forceStrictCondition" value="true"/>
         </module>  
-        <module name="RightCurly">
+        <module name="LeftCurly">
         </module>
         <module name="CyclomaticComplexity">
             <property name="max" value="3"/>
