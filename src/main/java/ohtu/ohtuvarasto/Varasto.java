@@ -25,7 +25,8 @@ public class Varasto {
         }
     }
 
-    public double getSaldo() {
+    public double getSaldo() 
+    {
         return saldo;
     }
 
